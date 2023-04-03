@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wali
 ### A Front-End Web Developer
-<a href="https://www.facebook.com/wali.ullah.3154284" target="_blank">Facebook</a>
+<a href="https://www.facebook.com/wali.ullah.3154284" target="blank">Facebook</a>
 
 <!--
 **wali55/wali55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
