@@ -3,7 +3,7 @@
 <p>
 Hi there! I'm a passionate front-end web developer with expertise in HTML, CSS, JavaScript, and React. I've already built several MERN applications using these technologies, and now I'm eager to learn more. My next goal is to expand my skills and knowledge by learning Redux, Next.js, TypeScript, Jest, and Agile methodologies. I'm also excited to collaborate with other developers and contribute to open source projects. Let's create amazing web experiences together!
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwali55anuraghazra&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wali55&show_icons=true&theme=transparent)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
