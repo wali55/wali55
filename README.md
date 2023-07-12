@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Book Card Generator App](https://github.com/wali55/books)
 
-- 🌱 I’m currently learning **React, Redux, Next.js, TypeScript, Jest, and Agile methodologies**
+- 🌱 I’m currently learning **React, Redux, Next.js, TypeScript, and Jest**
 
 - 👯 I’m looking to collaborate on [Gotcha App](https://github.com/tonic-6101/gotcha)
 
