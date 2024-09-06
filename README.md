@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Wali</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate software engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wali55&label=Profile%20views&color=0e75b6&style=flat" alt="wali55" /> </p>
 
 - 🔭 I’m currently working on [Django Ecommerce](https://github.com/wali55/GreatKart)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on 
 
 - 👨‍💻 All of my projects are available at [https://waliullah-portfolio.netlify.app/](https://waliullah-portfolio.netlify.app/)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **walisantunu@gmail.com**
 
