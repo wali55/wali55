@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wali55&label=Profile%20views&color=0e75b6&style=flat" alt="wali55" /> </p>
 
-- 🔭 I’m currently working on [Django Ecommerce](https://github.com/wali55/GreatKart)
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on 
