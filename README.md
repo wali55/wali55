@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on 
 
-- 👨‍💻 All of my projects are available at [https://waliullah-portfolio.netlify.app/](https://waliullah-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-project-five-ruddy.vercel.app/](https://portfolio-project-five-ruddy.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
